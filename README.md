@@ -8,6 +8,7 @@ SEC's ProxyChecker is a software that checks if a proxy is :
 If it does not have the three of them, it get flagged as "Dead"
 ## How to use it ?
 - install the dependancies
+
 `pip install pystyle`
 `pip install requests`
 - Add Proxies in `proxies.txt`
