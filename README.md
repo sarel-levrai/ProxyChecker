@@ -10,6 +10,7 @@ If it does not have the three of them, it get flagged as "Dead"
 - install the dependancies
 
 `pip install pystyle`
+
 `pip install requests`
 - Add Proxies in `proxies.txt`
 - Run `main.py`
