@@ -5,7 +5,9 @@ SEC's ProxyChecker is a software that checks if a proxy is :
 - Responsive
 - Alive
 - Fast
+
 If it does not have the three of them, it get flagged as "Dead"
+
 ## How to use it ?
 - install the dependancies
 
